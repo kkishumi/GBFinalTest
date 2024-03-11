@@ -1,0 +1,14 @@
+D:\GitHub\GBFinalTest\bin\Debug\net7.0\GBFinalTest.exe
+D:\GitHub\GBFinalTest\bin\Debug\net7.0\GBFinalTest.deps.json
+D:\GitHub\GBFinalTest\bin\Debug\net7.0\GBFinalTest.runtimeconfig.json
+D:\GitHub\GBFinalTest\bin\Debug\net7.0\GBFinalTest.dll
+D:\GitHub\GBFinalTest\bin\Debug\net7.0\GBFinalTest.pdb
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.AssemblyInfoInputs.cache
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.AssemblyInfo.cs
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.csproj.CoreCompileInputs.cache
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.dll
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\refint\GBFinalTest.dll
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.pdb
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\GBFinalTest.genruntimeconfig.cache
+D:\GitHub\GBFinalTest\obj\Debug\net7.0\ref\GBFinalTest.dll
